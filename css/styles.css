@@ -9,14 +9,14 @@
 	--our-team-backgrnd :#F5F4FA;
 }
 body {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  letter-spacing: 0.03em;
-  color: var(--color-text-black);
-  background-color: var(--color-white);
-  margin:0;
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	letter-spacing: 0.03em;
+	color: var(--color-text-black);
+	background-color: var(--color-white);
+	margin: 0;
 }
 
 /*------------header------------------*/
@@ -278,11 +278,10 @@ body {
 	text-decoration: none;
 }
 
-
 .portfolio-card {
 	font-weight: 900;
 	font-size: 18px;
-	line-height: 2.00;
+	line-height: 2;
 	letter-spacing: 0.06em;
 	color: var(--color-text-black);
 }
